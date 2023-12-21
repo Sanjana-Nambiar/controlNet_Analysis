@@ -1,1 +1,1 @@
-# controlNet_Analysis
+# Exploring and Analyzing ControlNet for Image Generation
