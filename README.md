@@ -14,7 +14,7 @@ Make sure to install the required dependencies:
 
 ## Dataset Preparation
 1. **Dataset Structure:**
-   - Place your original horse dataset in the directory `/content/drive/MyDrive/input_horses`.
+   - Place your original horse dataset in the directory `input_horses`.
 
 2. **Canny Image Generation:**
    - The script converts the horse dataset to Canny images for analysis.
@@ -31,7 +31,7 @@ Make sure to install the required dependencies:
 ## Image Generation
 1. **Generating Images:**
    - Images are generated based on the Canny images using the ControlNet pipeline.
-   - Generated images are stored in `/content/drive/MyDrive/generated_horses_org` and `/content/drive/MyDrive/generated_horses_res`.
+   - Generated images will get stored in `generated_horses_org` and `generated_horses_res`.
 
 ## Accuracy Measurement using LPIPS
 1. **LPIPS Calculation:**
